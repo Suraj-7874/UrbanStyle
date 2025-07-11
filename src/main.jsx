@@ -17,6 +17,6 @@ createRoot(document.getElementById("root")).render(
         </AuthProvider>
       </WishlistProvider>
     </StrictMode>
-    ,
+    
   </BrowserRouter>
 );
