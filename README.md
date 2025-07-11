@@ -42,6 +42,7 @@ src/
    npm run dev
    ```
 3. Open [http://localhost:5173](http://localhost:5174) in your browser.
+4. live demo :- https://suraj-7874.github.io/UrbanStyle/
 
 ## Main Dependencies
 - React 19+
