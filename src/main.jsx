@@ -7,7 +7,7 @@ import { CartProvider } from "./Pages/CartContext";
 import { WishlistProvider } from "./Pages/WishlistContext";
 import { AuthProvider } from "./Pages/AuthContext.jsx";
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/UrbanStyle">
     <StrictMode>
       <WishlistProvider>
         <AuthProvider>
