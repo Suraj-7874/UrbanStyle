@@ -60,6 +60,8 @@ src/
 - Responsive layouts for all devices.
 - Premium button styles and smooth transitions.
 - Accessible navigation and clear feedback for actions.
+![Homepage Screenshot](https://your-image-url.com/image.jpg)
+
 
 ## Special Notes
 - **Authentication, cart, and wishlist** are stored in localStorage for demo purposes.
