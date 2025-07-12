@@ -2,15 +2,24 @@
 
 UrbanStyle is a modern, responsive e-commerce web application for fashion and lifestyle products. It features a beautiful UI, category-based product browsing, wishlist, cart, and a smooth checkout experience.
 
-## Features
-- **Product Grid:** Browse products by category, with one featured product per category. Click a product to see all items in that category.
-- **Product Details:** View detailed information, images, reviews, and add to cart.
-- **Wishlist:** Add/remove products to your wishlist.
-- **Cart/Bag:** Add products to your bag, remove them, and proceed to checkout.
-- **Checkout:** Place orders, print/download invoices, and see order history (if logged in).
-- **Authentication:** Simple registration/login with localStorage persistence.
-- **Responsive Design:** Looks great on mobile, tablet, and desktop.
+## ✨ Features
 
+- 🔍 **Product Grid:** Browse products by category. Clicking on a featured item loads full category listings.
+- 🛒 **Cart/Bag:** Add or remove products from your bag and simulate checkout.
+- ❤️ **Wishlist:** Save your favorite products to a wishlist.
+- 📦 **Product Details:** View product details, images, and price.
+- 🧾 **Checkout:** Simulated checkout with print/download invoice feature.
+- 🔐 **Authentication:** Basic login/register (data saved in `localStorage`).
+- 📱 **Responsive Design:** Optimized for mobile, tablet, and desktop views.
+- 🌈 **Modern UI/UX:** Gradients, shadows, smooth transitions, and beautiful layouts.
+
+ 🧩 Tech Stack
+
+- ⚛️ **React 19+**
+- 🎨 **Tailwind CSS 4+**
+- 🔀 **React Router DOM 7+**
+- 📦 [dummyjson.com](https://dummyjson.com/) for fake product API
+---
 ## Folder Structure
 ```
 src/
@@ -42,7 +51,7 @@ src/
    npm run dev
    ```
 3. Open [http://localhost:5173](http://localhost:5174) in your browser.
-4. live demo :- https://suraj-7874.github.io/UrbanStyle/
+
 
 ## Main Dependencies
 - React 19+
@@ -64,7 +73,16 @@ src/
 - ImageShots :-
 ## 🛍️ Bag Page
 
+![main Page](./src/Screenshorts/Slider.png)
+![Categories Page](./src/Screenshorts/Categories.png)
+![product Page](./src/Screenshorts/product.png)
+![product_details Page](./src/Screenshorts/product_details.png)
+![wishlist Page](./src/Screenshorts/wishlist.png)
 ![Bag Page](./src/Screenshorts/Bag.png)
+![login Page](./src/Screenshorts/login.png)
+![profile Page](./src/Screenshorts/profile.png)
+![register Page](./src/Screenshorts/register.png)
+![Footer Page](./src/Screenshorts/Footer.png)
 
 
 
@@ -79,7 +97,10 @@ Enjoy exploring UrbanStyle! For questions or contributions, open an issue or pul
 
 ---
 
-## Maintainer / Contact
-If you have any issues or questions, please contact:
-- **Name:** Suraj
-- **Email:** Survesuraj#8@gmail.com
+## 👨‍💻 Maintainer
+👤 Name: Suraj
+
+📫 Email: Survesuraj38@gmail.com
+
+🌐 Portfolio: Coming Soon...
+
