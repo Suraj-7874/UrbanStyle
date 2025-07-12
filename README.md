@@ -60,7 +60,12 @@ src/
 - Responsive layouts for all devices.
 - Premium button styles and smooth transitions.
 - Accessible navigation and clear feedback for actions.
-![Homepage Screenshot](https://your-image-url.com/image.jpg)
+
+- ImageShots :-
+## 🛍️ Bag Page
+
+![Bag Page](./src/Screenshorts/Bag.png)
+
 
 
 ## Special Notes
