@@ -71,18 +71,19 @@ src/
 - Accessible navigation and clear feedback for actions.
 
 - ImageShots :-
-## 🛍️ Bag Page
-
-![main Page](./src/Screenshorts/Slider.png)
-![Categories Page](./src/Screenshorts/Categories.png)
-![product Page](./src/Screenshorts/product.png)
-![product_details Page](./src/Screenshorts/product_details.png)
-![wishlist Page](./src/Screenshorts/wishlist.png)
-![Bag Page](./src/Screenshorts/Bag.png)
-![login Page](./src/Screenshorts/login.png)
-![profile Page](./src/Screenshorts/profile.png)
-![register Page](./src/Screenshorts/register.png)
-![Footer Page](./src/Screenshorts/Footer.png)
+##  Main Page
+| Page                    | Preview                                                    |
+| ----------------------- | ---------------------------------------------------------- |
+| 🏠 Main Page (Slider)   | ![Main Page](./src/Screenshorts/Slider.png)                |
+| 📂 Categories Page      | ![Categories Page](./src/Screenshorts/Categories.png)      |
+| 🛍️ Product Grid Page   | ![Product Page](./src/Screenshorts/product.png)            |
+| 📄 Product Details Page | ![Product Details](./src/Screenshorts/product_details.png) |
+| ❤️ Wishlist Page        | ![Wishlist Page](./src/Screenshorts/wishlist.png)          |
+| 🛒 Bag / Cart Page      | ![Bag Page](./src/Screenshorts/Bag.png)                    |
+| 🔐 Login Page           | ![Login Page](./src/Screenshorts/login.png)                |
+| 👤 Profile Page         | ![Profile Page](./src/Screenshorts/profile.png)            |
+| 📝 Register Page        | ![Register Page](./src/Screenshorts/register.png)          |
+| 📢 Footer Section       | ![Footer Page](./src/Screenshorts/Footer.png)              |
 
 
 
